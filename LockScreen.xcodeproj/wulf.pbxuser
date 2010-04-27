@@ -1,0 +1,180 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1347, 714}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* LockScreenAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1347, 714}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 327}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* LockScreenAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1347, 714}}";
+			sepNavSelRange = "{321, 0}";
+			sepNavVisRange = "{0, 539}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 3A7EE34011871FEA0003FCA6 /* LockScreen */;
+		activeTarget = 8D1107260486CEB800E47090 /* LockScreen */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* LockScreen */,
+		);
+		codeSenseManager = 3A7EE35211871FEE0003FCA6 /* Code sense */;
+		executables = (
+			3A7EE34011871FEA0003FCA6 /* LockScreen */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1169,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 294068202;
+			PBXWorkspaceStateSaveDate = 294068202;
+		};
+		perUserProjectItems = {
+			3A7EE3AB1187236E0003FCA6 /* PBXTextBookmark */ = 3A7EE3AB1187236E0003FCA6 /* PBXTextBookmark */;
+			3A7EE3AC1187236E0003FCA6 /* PBXTextBookmark */ = 3A7EE3AC1187236E0003FCA6 /* PBXTextBookmark */;
+			3A7EE3AD1187236E0003FCA6 /* PBXBookmark */ = 3A7EE3AD1187236E0003FCA6 /* PBXBookmark */;
+			3A7EE3AE1187236E0003FCA6 /* PBXTextBookmark */ = 3A7EE3AE1187236E0003FCA6 /* PBXTextBookmark */;
+			3A7EE3C01187245B0003FCA6 /* PlistBookmark */ = 3A7EE3C01187245B0003FCA6 /* PlistBookmark */;
+			3A7EE3C11187245B0003FCA6 /* PlistBookmark */ = 3A7EE3C11187245B0003FCA6 /* PlistBookmark */;
+		};
+		sourceControlManager = 3A7EE35111871FEE0003FCA6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3A7EE34011871FEA0003FCA6 /* LockScreen */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = LockScreen;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3A7EE35111871FEE0003FCA6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3A7EE35211871FEE0003FCA6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3A7EE3AB1187236E0003FCA6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* LockScreenAppDelegate.h */;
+		name = "LockScreenAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 327;
+		vrLoc = 0;
+	};
+	3A7EE3AC1187236E0003FCA6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* LockScreenAppDelegate.m */;
+		name = "LockScreenAppDelegate.m: 15";
+		rLen = 0;
+		rLoc = 321;
+		rType = 0;
+		vrLen = 539;
+		vrLoc = 0;
+	};
+	3A7EE3AD1187236E0003FCA6 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3A7EE3A3118723310003FCA6 /* lock.icns */;
+	};
+	3A7EE3AE1187236E0003FCA6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	3A7EE3C01187245B0003FCA6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* LockScreen-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/wulf/code/LockScreen/LockScreen-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	3A7EE3C11187245B0003FCA6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* LockScreen-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSUIElement,
+		);
+		name = "/Users/wulf/code/LockScreen/LockScreen-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	8D1107260486CEB800E47090 /* LockScreen */ = {
+		activeExec = 0;
+		executables = (
+			3A7EE34011871FEA0003FCA6 /* LockScreen */,
+		);
+	};
+}
