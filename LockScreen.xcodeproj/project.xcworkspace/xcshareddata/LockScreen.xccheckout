@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>873267F4-2D5A-447A-9044-553F2962CC2C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LockScreen</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DCFF6D8C-8AC8-45AC-8068-0A915D6BFE35</key>
+		<string>https://github.com/wulfovitch/LockScreen.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LockScreen.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DCFF6D8C-8AC8-45AC-8068-0A915D6BFE35</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wulfovitch/LockScreen.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DCFF6D8C-8AC8-45AC-8068-0A915D6BFE35</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DCFF6D8C-8AC8-45AC-8068-0A915D6BFE35</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LockScreen</string>
+		</dict>
+	</array>
+</dict>
+</plist>
